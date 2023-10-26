@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/LENOVO/OneDrive/Escritorio/JAVA/POOP8/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/LENOVO/OneDrive/Escritorio/JAVA/POOP8/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOP8 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'POOP8 1.0-SNAPSHOT API'
+poop8
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\src\main\java = 1697810266286
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\allclasses-index.html = 1698350648496
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\allpackages-index.html = 1698350648503
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\constant-values.html = 1698350648370
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\element-list = 1698350648321
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\help-doc.html = 1698350648604
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\index-all.html = 1698350648588
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\index.html = 1698350648593
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\jquery-ui.overrides.css = 1698350648671
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\member-search-index.js = 1698350648518
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\module-search-index.js = 1698350648508
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\overview-tree.html = 1698350648454
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\package-search-index.js = 1698350648512
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\script.js = 1698350648612
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\search.js = 1698350648616
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\stylesheet.css = 1698350648609
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\tag-search-index.js = 1698350648520
+C:\Users\LENOVO\OneDrive\Escritorio\JAVA\POOP8\target\site\apidocs\type-search-index.js = 1698350648515
